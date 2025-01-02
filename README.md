@@ -16,7 +16,7 @@
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/BruhScript.git
+git clone https://github.com/dimaniojk/BruhScript.git
 cd BruhScript
 ```
 
