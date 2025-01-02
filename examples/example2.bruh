@@ -1,0 +1,7 @@
+bruh start
+load_plugin "src/bruhscript/plugins/math_plugin.py"
+math_add 15 25 sum
+yeet "Sum from plugin: {sum}"
+math_multiply 5 6 product
+yeet "Product from plugin: {product}"
+bruh end
